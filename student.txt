@@ -1,0 +1,3 @@
+
+{  id = 1 |  name = 123 |  born = 2001-11-23 |  address = asd |  height = 123.0 |  weight = 123.0
+code student = 1231231231 |  name university = 1232 |  start year = 2313 |  gpa = 2.0 |  rank = KEM } 
